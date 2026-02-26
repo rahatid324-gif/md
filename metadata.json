@@ -1,0 +1,5 @@
+{
+  "name": "OTC Signal Bot",
+  "description": "AI-powered trading signal predictor for OTC markets. Upload chart screenshots to get CALL/PUT signals with confidence levels.",
+  "requestFramePermissions": []
+}
